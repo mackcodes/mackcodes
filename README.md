@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayank</h1>
 <h3 align="center">I am a passionate coder getting my hands dirty in Web Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mackcodes&label=Profile%20views&color=0e75b6&style=flat" alt="mackcodes" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mackcodes" alt="mackcodes" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/macktweet_" target="blank"><img src="https://img.shields.io/twitter/follow/macktweet_?logo=twitter&style=for-the-badge" alt="macktweet_" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mackcodes&label=Profile%20views&color=0e75b6&style=flat" alt="mackcodes" /> </p>   <p align="left"> <a href="https://twitter.com/macktweet_" target="blank"><img src="https://img.shields.io/twitter/follow/macktweet_?logo=twitter&style=for-the-badge" alt="macktweet_" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 
@@ -15,6 +11,7 @@
 
 - ⚡ Fun fact **I think I am funny**
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mackcodes" alt="mackcodes" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/mackcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mackcodes" height="30" width="40" /></a>
